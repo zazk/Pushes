@@ -9,7 +9,7 @@
         "express": "^4.15.4"
     },
     "scripts": {
-        "start": "node app.js"
+        "start": "nodemon --exec node -- app.js"
     },
     "devDependencies": {
         "nodemon": "^1.12.1"
