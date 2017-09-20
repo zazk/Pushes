@@ -1,4 +1,3 @@
-let request = require("request");
 let express = require("express");
 let app = express();
 var apn = require("apn");
